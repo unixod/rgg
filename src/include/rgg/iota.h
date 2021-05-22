@@ -10,6 +10,8 @@ namespace rgg::details {
 //    > the ForwardIterator requirements
 // This issue happened when I tried to use std::ranges::sample with std::ranges::iota
 // when sending output to std::ostream_iterator.
+//
+// See also: https://cplusplus.github.io/LWG/issue3291
 template<std::integral BoundType>
 class Iota {
 public:
