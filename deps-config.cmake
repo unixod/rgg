@@ -13,7 +13,7 @@ FetchContent_Declare(ez-support
 
 FetchContent_Declare(ez-utils
     GIT_REPOSITORY git@github.com:unixod/ez-utils.git
-    GIT_TAG 94b7c54f206fb549de28f3afeba86b1a40085b62
+    GIT_TAG 599bd48e55a96ab8573323b6573c30c3ffbcd4c2
     GIT_SHALLOW On
 )
 

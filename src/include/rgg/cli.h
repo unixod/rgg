@@ -3,7 +3,7 @@
 
 #include <string_view>
 #include <ez/support/definitions.h>
-#include <ez/utils/utils.h>
+#include <ez/utils/type-conversion.h>
 
 namespace rgg {
 class Cli {
